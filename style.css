@@ -1,0 +1,19 @@
+.widget {
+    padding: 20px;
+    margin: 10px;
+}
+
+.wid{
+    border: 2px solid rgb(229, 228, 235);
+    border-radius: 2em;;
+}
+button{
+    border: 2px solid rgb(10, 151, 111);
+    border-radius: 2em;
+    margin:5px;
+    
+}
+button:hover{
+    background-color: #0e41e9; /* Green */
+    color: white;
+}
